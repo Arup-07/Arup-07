@@ -71,15 +71,13 @@
 | 💻 **DSA Practice** | 160+ Java DSA solutions with explanations | Java |
 
 
-
-## 👀 Profile Views
+## 💬 Random Dev Quote
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Arup-07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
-
 
 
 
