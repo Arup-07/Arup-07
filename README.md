@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 I'm Arup Mohanty
+
+Full Stack Developer |
 
 <!--
 **Arup-07/Arup-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
