@@ -6,15 +6,30 @@
   </a>
 </p>
 
-Full Stack Developer |  Cybersecurity Student
+## 👨‍💻 About Me
 
-🎯 Aspiring Software Engineer
-💻 Solving DSA 
-🌱 Currently mastering MERN Stack and Data Structures & Algorithms
+🎓 B.Tech Computer Science (Cybersecurity)
+
+💻 Passionate about Full Stack Web Development
+
+🌱 Currently learning MERN Stack and Data Structures & Algorithms
+
+🚀 Building real-world projects to solve practical problems
+
+🤝 Open to internships, collaborations, and open-source contributions
+
+📍 India
 
 
+## 🌐 Connect with Me
 
+<p align="left">
+<a href="http://www.linkedin.com/in/arup-jyoti-mohanty-a690b9308"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 
+<a href="arupjyotimohanty7710@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 
 
