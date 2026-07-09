@@ -32,6 +32,14 @@
 </p>
 
 
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nextjs,nodejs,express,mongodb,firebase,html,css,python,git,github,vscode&perline=8"/>
+
+</p>
+
 
 
 
