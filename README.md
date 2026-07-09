@@ -1,6 +1,40 @@
-## Hi 👋 I'm Arup Mohanty
+## Hi 👋 I'm Arup Jyoti Mohanty
 
-Full Stack Developer |
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Arup+Mohanty!;Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Building+Real-World+Projects" alt="Typing SVG" />
+  </a>
+</p>
+
+Full Stack Developer |  Cybersecurity Student
+
+🎯 Aspiring Software Engineer
+💻 Solving DSA 
+🌱 Currently mastering MERN Stack and Data Structures & Algorithms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Arup-07/Arup-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
