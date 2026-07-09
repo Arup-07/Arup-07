@@ -72,6 +72,18 @@
 
 
 
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Arup-07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+
+
+
+<!--
 ## 🏆 Coding Profiles
 
 <p align="center">
@@ -89,7 +101,7 @@
 </a>
 
 
-<!--
+
 **Arup-07/Arup-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
