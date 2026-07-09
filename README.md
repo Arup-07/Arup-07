@@ -61,13 +61,32 @@
 
 
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 💰 **FinSphere AI** | AI-powered personal finance platform with chatbot, analytics & budgeting | MERN, AI |
+| 📈 **GitInsight** | GitHub profile analyzer with AI resume and skill insights | MERN, GitHub API |
+| 🌾 **KrishiMitra** | Smart agriculture platform for farmers using AI | MERN, ML |
+| 💻 **DSA Practice** | 160+ Java DSA solutions with explanations | Java |
 
 
 
+## 🏆 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/arup07_">
+<img src="https://leetcard.jacoblin.cool/arup07_?theme=dark&font=Karma"/>
+
+</a>
+
+</p>
 
 
-
-
+<a href="https://auth.geeksforgeeks.org/user/arupjyotimoa46w">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 
 <!--
