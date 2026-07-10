@@ -66,10 +66,10 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | 💰 **FinSphere AI** | AI-powered personal finance platform with chatbot, analytics & budgeting | MERN, AI |
-<!--| 📈 **GitInsight** | GitHub profile analyzer with AI resume and skill insights | MERN, GitHub API |-->
 | 🌾 **KrishiMitra** | Smart agriculture platform for farmers using AI | MERN, ML |
 | 💻 **DSA Practice** | Java DSA solutions with explanations | Java |
 
+<!--| 📈 **GitInsight** | GitHub profile analyzer with AI resume and skill insights | MERN, GitHub API |-->
 
 ## 💬 Random Dev Quote
 
